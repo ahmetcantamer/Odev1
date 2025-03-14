@@ -1,4 +1,5 @@
 1-)Whatsapp'ı iki veya daha fazla telefonda kullanma,
 2-)Whatsapp'ta ekran paylasşımı,
 3-)Hangi sohbetlerin en çok yer kapladığını öğrenme,
-4-)Aynı anda 32 kişiye kadar görüntülü arama.
+4-)Aynı anda 32 kişiye kadar görüntülü arama,
+5-)Son görülme özelliğini kapatma.
